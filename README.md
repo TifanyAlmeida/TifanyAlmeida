@@ -1,4 +1,4 @@
-### Olá, eu sou a Tifany Almeida dos Santos 👋
+### Olá, eu sou @ Tifany Almeida dos Santos 👋
 
 <a href="https://hto.ifsp.edu.br/institucional/" target="_blank"><img src="http://gru.ifsp.edu.br/images/if.png" target="_blank" width = "30px" heigth = "30px"></a>
 <a href="https://www.bosch.com.br/" target="_blank"><img src="https://anpei.org.br/site-novo/wp-content/uploads/2019/05/bosch-3.jpg" target="_blank" width = "70px" heigth = "50px"></a>
