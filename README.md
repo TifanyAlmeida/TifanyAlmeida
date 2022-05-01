@@ -1,5 +1,11 @@
 ### Olá, eu sou a Tifany Almeida dos Santos 👋
 
+<p><a href="https://hto.ifsp.edu.br/institucional/" target="_blank"><img src="http://gru.ifsp.edu.br/images/if.png" target="_blank" width = "30px" heigth = "30px"></a>Foi cursando TI, no Instituto Federal de Hortolândia, que eu descobri a área que faria parte.</p>
+
+<a href="https://www.bosch.com.br/" target="_blank"><img src="https://anpei.org.br/site-novo/wp-content/uploads/2019/05/bosch-3.jpg" target="_blank" width = "70px" heigth = "50px"></a>
+<p>Hoje, curso Desenvolvimento de Sistemas, no Senai Roberto Mange, pela multinacional Robert Bosch Ltda.</p>
+
+
 <div align="center">
   <a href="https://github.com/TifanyAlmeida">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TifanyAlmeida&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
