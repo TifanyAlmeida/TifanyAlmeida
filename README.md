@@ -1,5 +1,5 @@
 
-> ## :bulb: TIFANY ALMEIDA
+> ## TIFANY ALMEIDA
 
 ###### <ins>Desenvolvedor@<ins>
 
